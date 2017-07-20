@@ -1,0 +1,18 @@
+<svg width="17.62" height="14.031" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1 {
+        fill: #fff;
+      }
+      .cls-1:hover {
+        fill: #fce38a;
+      }</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path d="m17.540059,3.1l0,0l-2.48,5.5l0,0a0.815,0.815 0 0 1 -0.7,0.485l0,0l-7.12,0.475l0.41,1.177l7.76,0a1.65,1.65 0 1 1 -1.65,1.651l-7.7,0a1.65,1.65 0 1 1 -1.65,-1.651l1.49,0l-3.18,-9.075l-1.89,0a0.825,0.825 0 0 1 0,-1.65l2.48,0a0.835,0.835 0 0 1 0.78,0.554l0,0l0.48,1.373l12.21,0a0.826,0.826 0 0 1 0.83,0.825a0.941,0.941 0 0 1 -0.07,0.336zm-12.39,0.487l1.52,4.357l7.09,-0.473l1.75,-3.884l-10.36,0z" class="cls-1" id="SHOPPING_CART"/>
+ </g>
+</svg>
